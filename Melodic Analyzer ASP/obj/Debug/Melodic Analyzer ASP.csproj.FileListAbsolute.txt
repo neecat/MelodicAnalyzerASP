@@ -1,0 +1,14 @@
+F:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.dll.config
+F:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.dll
+F:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.pdb
+F:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.csprojResolveAssemblyReference.cache
+F:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.dll
+F:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.pdb
+N:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.dll.config
+N:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.dll
+N:\melodicanalyzer\Melodic Analyzer ASP\bin\Melodic Analyzer ASP.pdb
+N:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.csprojResolveAssemblyReference.cache
+N:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.dll
+N:\melodicanalyzer\Melodic Analyzer ASP\obj\Debug\Melodic Analyzer ASP.pdb
+N:\melodicanalyzer\Melodic Analyzer ASP\bin\melodicanalyzer.dll
+N:\melodicanalyzer\Melodic Analyzer ASP\bin\melodicanalyzer.pdb

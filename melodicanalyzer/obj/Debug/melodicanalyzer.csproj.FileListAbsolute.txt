@@ -1,0 +1,15 @@
+c:\users\nathanial\documents\visual studio 2013\Projects\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.dll
+c:\users\nathanial\documents\visual studio 2013\Projects\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.pdb
+c:\users\nathanial\documents\visual studio 2013\Projects\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.csprojResolveAssemblyReference.cache
+c:\users\nathanial\documents\visual studio 2013\Projects\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.dll
+c:\users\nathanial\documents\visual studio 2013\Projects\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.pdb
+F:\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.dll
+F:\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.pdb
+F:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.csprojResolveAssemblyReference.cache
+F:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.dll
+F:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.pdb
+N:\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.dll
+N:\melodicanalyzer\melodicanalyzer\bin\Debug\melodicanalyzer.pdb
+N:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.dll
+N:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.pdb
+N:\melodicanalyzer\melodicanalyzer\obj\Debug\melodicanalyzer.csprojResolveAssemblyReference.cache

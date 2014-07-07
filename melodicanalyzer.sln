@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "melodicanalyzer", "melodicanalyzer\melodicanalyzer.csproj", "{726058D3-E56C-4147-B08A-4C99363FB4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melodic Analyzer ASP", "Melodic Analyzer ASP\Melodic Analyzer ASP.csproj", "{01CF8620-AD4B-4E6B-A714-497D17734F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726058D3-E56C-4147-B08A-4C99363FB4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726058D3-E56C-4147-B08A-4C99363FB4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726058D3-E56C-4147-B08A-4C99363FB4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726058D3-E56C-4147-B08A-4C99363FB4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CF8620-AD4B-4E6B-A714-497D17734F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CF8620-AD4B-4E6B-A714-497D17734F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CF8620-AD4B-4E6B-A714-497D17734F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CF8620-AD4B-4E6B-A714-497D17734F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
